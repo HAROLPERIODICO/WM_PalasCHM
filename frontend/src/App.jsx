@@ -1,3 +1,4 @@
+import Footer from "./components/Footer.jsx";
 import Header from "./components/Header.jsx";
 
 
@@ -7,6 +8,7 @@ function App() {
     <>
     {/* Aquí irán las demás secciones */}
       <Header />
+      <Footer />
 
   
       
