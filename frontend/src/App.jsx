@@ -11,11 +11,10 @@ function App() {
     <>
     {/* Aquí irán las demás secciones */}
       <Header />
-      <Footer />
       <Indicadores />
-   
       <Programacion />
       <Status />
+      <Footer />
       {/* Puedes agregar más componentes aquí */}
   
       
