@@ -1,7 +1,17 @@
-export default function App() {
+import Header from "./components/Header.jsx";
+
+
+
+function App() {
   return (
-    <div className="min-h-screen bg-slate-100 flex items-center justify-center">
-      <h1 className="text-5xl font-bold text-blue-600">🚀 Tailwind está activo</h1>
-    </div>
+    <>
+    {/* Aquí irán las demás secciones */}
+      <Header />
+
+  
+      
+    </>
   );
 }
+
+export default App;
